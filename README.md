@@ -2,7 +2,7 @@
 
 <img align="center" src="https://github.com/saviomartin/saviomartin/blob/master/assets/about.png?raw=true"/>
 
-- 🔭 I’m currently using in frontend reactjs,angular,nextjs,typescript,javascript vanilla, html5 and css3.
+- 🔭 I’m currently using in frontend reactjs,angular,gatsbyjs,nextjs,typescript,javascript vanilla, html5 and css3.
 - 🌱 I’m currently using in backend spring-boot,nodejs,flask and laravel.
 - 📫 How to reach me: jesusalvan2010@gmail.com.
 - ⚡ Also interested on cyber security and machine learning.
