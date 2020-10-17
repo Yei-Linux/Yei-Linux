@@ -10,6 +10,6 @@
 <img align="center" src="https://github.com/saviomartin/saviomartin/blob/master/assets/connect.png?raw=true"/>
 
 - <a href="jesusalvan2010@gmail.com"><img width="30px" height="30px" src="https://image.flaticon.com/icons/png/512/281/281769.png"/></a>
-- <a href="https://www.facebook.com/jesus.alvan.1"><img width="50px" height="50px" src="https://lh3.googleusercontent.com/proxy/GzOQdrVxNMAGZIAWCQtLHR3T8JRaRqBmtc9zllaAe-tTQXYMIfJy9O2am_xtC5uEZYkIeaX0_W63xjOWV984brSnK86Z5Ga0IyJvfzme-9HnNIWpf0aykD2_yfOIoLIz9NPZanaEWOWfu2mPRkjkDy0"/></a>
+- <a href="https://www.facebook.com/jesus.alvan.1"><img width="50px" height="50px" src="https://images.vexels.com/media/users/3/137253/isolated/preview/90dd9f12fdd1eefb8c8976903944c026-icono-de-facebook-logo-by-vexels.png"/></a>
 
 ⭐️ From [yei-linux](https://github.com/Yei-Linux)
