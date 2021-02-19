@@ -1,3 +1,6 @@
+# Hey, I am Jesus 👋✌️
+I love building web applications and learning more techs skills.I like coding in teams and share skills to improve our code practices.
+
 <img align="center" width="100%" height="300px" src="https://images.parkrun.com/blogs.dir/1447/files/2019/07/astronaut2.gif"/>
 
 ## My skills 🚀
